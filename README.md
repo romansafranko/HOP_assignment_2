@@ -73,7 +73,7 @@ V tomto projekte nie sú požadované externé balíčky. Ak by ste v budúcnost
 ```bash
 pip install -r requirements.txt
 ```
-(Súbor requirements.txt momentálne nie je prítomný, keďže nie je potrebný.)
+(Súbor requirements.txt momentálne nie je prítomný, keďže nie je potrebný).
 
 ---
 
