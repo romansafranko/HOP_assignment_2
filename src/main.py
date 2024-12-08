@@ -9,7 +9,7 @@ def assign_workloads(input_file, output_file):
     }
 
     workloads = {}  # Sledovanie aktuálneho zaťaženia jednotlivých vyučujúcich
-    results = []    # Zoznam výsledkov na výstup
+    results = ["predmet;prednsdsajuci,cviciaci"]    # Zoznam výsledkov na výstup
 
     # Načítanie vstupného súboru
     with open(input_file, 'r') as file:
